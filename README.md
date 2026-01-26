@@ -1,8 +1,8 @@
 # chat-pancake
 
-![img](https://pancakechat.com/images/2025-04-01-224208.png)
+![img](https://chatpancake.studiouvu.com/images/2025-04-01-224208.png)
 
-[chatpancake.com](https://chatpancake.com)
+[chatpancake.studiouvu.com](https://chatpancake.studiouvu.com)
 
 openai chatgpt를 질문 개수 제한 없이 사용하기 위해 급조한 프로젝트입니다.  
 openai api key를 설정해 사용할 수 있습니다.  
